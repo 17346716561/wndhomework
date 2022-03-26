@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="6d598901-7962-4ca4-8a09-7c31e5ef5189" name="homework">
+        <fileTransfer rootFolder="/home/song/code/wndhomework" accessType="SFTP" host="192.168.167.172" port="22" sshConfigId="e9df9187-1b36-4ab2-ba25-5d2ccd3e969c" sshConfig="song@192.168.167.172:22 password">
+          <advancedOptions>
+            <advancedOptions controlEncoding="UTF-8" dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
